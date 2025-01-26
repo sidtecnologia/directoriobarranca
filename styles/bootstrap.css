@@ -689,7 +689,7 @@ body {
 
 /* Hover Effects */
 .floating-panel a:hover {
-    background-color: #088a328c; /* Cambia el color al pasar el mouse */
+    background-color: #3849ff9c; /* Cambia el color al pasar el mouse */
     transform: scale(1.1); /* Efecto de agrandamiento */
 }
 
