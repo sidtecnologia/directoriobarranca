@@ -237,7 +237,7 @@ header p {
 
 /* Estilo para cada imagen de categoría */
 .category-item {
-    border-radius: 5%;
+    border-radius: 10px;
     position: relative;
     text-align: center;
     overflow: hidden;
