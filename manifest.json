@@ -1,6 +1,8 @@
 {
     "short_name":
-    "name":[
+    "name":
+    "icons":
+    [
         {
             "src": "favicon.png",
             "type": "assets/image/png",
