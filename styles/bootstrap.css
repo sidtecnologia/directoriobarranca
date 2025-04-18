@@ -183,6 +183,7 @@ header p {
 }
 
 .product-gallery {
+    background-color: #fff;
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* Dos tarjetas por fila */
     gap: 15px; /* Espacio entre las tarjetas */
