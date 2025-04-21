@@ -836,8 +836,6 @@ body {
     cursor: pointer;
 }
 
-.map-container section {
-    border-radius: 15px;
 
 .map-container {
     display: flex;
